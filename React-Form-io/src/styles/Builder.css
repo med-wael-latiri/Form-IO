@@ -1,0 +1,26 @@
+/* #group-container-basic,
+#group-container-advanced,
+#group-container-layout,
+#group-container-premium,
+#group-container-data {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.builder-group-button {
+  width: 100%;
+} */
+input {
+  margin: auto;
+  display: block;
+
+  height: 3rem;
+  width: 25rem;
+}
+::-webkit-input-placeholder {
+  text-align: center;
+}
+button {
+  margin: auto !important;
+  display: block !important;
+}
